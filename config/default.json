@@ -1,4 +1,4 @@
 {
-  "mongoUri": "mongodb+srv://admin:steve@cluster0-dd8wj.mongodb.net/test?retryWrites=true&w=majority",
-  "secret": "SteveLoic"
+  "mongoUri": "mongodb+srv://USERNAME:PASSWORD@cluster0-dd8wj.mongodb.net/test?retryWrites=true&w=majority",
+  "secret": "XXXXX"
 }
